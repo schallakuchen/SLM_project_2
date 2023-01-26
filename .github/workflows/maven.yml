@@ -1,3 +1,5 @@
+#SLM project 2 Git pipeline */
+
 name: Java CI
 
 on: [push]
