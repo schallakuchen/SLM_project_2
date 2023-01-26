@@ -1,6 +1,5 @@
 package at.technikum.slm_project_2;
 
-
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

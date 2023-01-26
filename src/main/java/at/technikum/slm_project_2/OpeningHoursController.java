@@ -1,13 +1,12 @@
 package at.technikum.slm_project_2;
 
+
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.CrossOrigin;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PutMapping;
-import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;
 
+@RestController
 public class OpeningHoursController {
 
     private OpeningHours openingHours = new OpeningHours();

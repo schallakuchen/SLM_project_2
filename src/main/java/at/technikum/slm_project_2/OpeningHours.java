@@ -1,5 +1,4 @@
 package at.technikum.slm_project_2;
-
 import java.util.HashMap;
 import java.util.Map;
 
