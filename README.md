@@ -5,6 +5,7 @@ Man kann die Öffnungszeiten für jeden Tag eigen setzten. Die Öffnungszeiten a
 Als Backend wurde eine Spring Web App verwendet und als Frontend eine Angular Application.
 
 
+
 ## How to use:
 1. Den Source Code und das Jar File vom letzten Release herunterladen.
 ![image](https://user-images.githubusercontent.com/39189271/214960202-8aeb5d6b-7b9c-403d-aadf-6f73826bd246.png)
@@ -31,6 +32,8 @@ npm start
 6. REST API Calls an localhost:8080 senden. In dem Fall mit einem Browser Plugin für Google Chrome
 
 ![image](https://user-images.githubusercontent.com/39189271/214961490-92e1d4e4-4c92-46d8-98b6-e64182a26238.png)
+
+
 
 
 ## Workflow
